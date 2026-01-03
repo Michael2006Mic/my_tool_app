@@ -22,6 +22,7 @@ This application provides free, open-source tools to handle your documents secur
 *Built with Streamlit & Hugging Face.*
 """)
 
-st.sidebar.markdown("[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Donate-yellow.svg)](https://www.buymeacoffee.com/YOUR_USERNAME)")
+st.sidebar.markdown("[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Donate-yellow.svg)](https://www.buymeacoffee.com/Michael2025)")
 with st.sidebar:
+
     st.info("🎈 Like this tool? Share it with a friend!")
