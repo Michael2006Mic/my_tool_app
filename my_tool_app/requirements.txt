@@ -1,0 +1,11 @@
+streamlit
+requests
+PyPDF2
+pymupdf
+pdf2docx
+Pillow
+easyocr
+python-docx
+numpy
+opencv-python-headless
+huggingface_hub
