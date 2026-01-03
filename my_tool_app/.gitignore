@@ -1,0 +1,18 @@
+# 1. Security (CRITICAL)
+# This keeps your API keys safe on your laptop only
+.streamlit/secrets.toml
+
+# 2. Virtual Environments
+# Ignore the massive folder containing Python libraries
+.venv/
+venv/
+env/
+
+# 3. Python Cache
+# Ignore junk files Python creates
+__pycache__/
+*.pyc
+
+# 4. System Junk
+.DS_Store
+Thumbs.db
